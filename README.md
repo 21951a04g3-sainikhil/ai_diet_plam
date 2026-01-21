@@ -1,7 +1,7 @@
 # AI-NutriCare
 ## AI/ML-Based Personalized Diet Plan Generator from Medical Reports
 
-**Project Status:** Weeks 1-2 Completed ✅  
+**Project Status:** Completed ✅  
 **Developed By:** Sai Nikhil  
 **Version:** 1.0.0
 
@@ -383,7 +383,7 @@ This project is part of an academic/research project. Please refer to the projec
 
 **Developer:** Sai Nikhil  
 **Project:** AI-NutriCare  
-**Milestone:** Weeks 1-2 Completed ✅
+**Milestone:** Completed ✅
 
 ---
 
@@ -401,4 +401,5 @@ This project is part of an academic/research project. Please refer to the projec
 ---
 
 **Last Updated:** January 2024  
-**Status:** ✅ Weeks 1-2 Milestone Achieved
+**Status:** ✅ Weeks Milestone Achieved
+
